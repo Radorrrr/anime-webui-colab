@@ -18,7 +18,7 @@ disabled_logging = False
 chosen_webui_version = 'stable'
 chosen_extension_version = 'stable'
 
-web_ui_folder = '/content/stable-diffusion-webui'
+web_ui_folder = '/content/interface'
 models_folder = f'{web_ui_folder}/models/Stable-diffusion'
 vae_folder = f'{web_ui_folder}/models/VAE'
 embeddings_folder = f'{web_ui_folder}/embeddings'
